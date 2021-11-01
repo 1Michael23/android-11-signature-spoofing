@@ -44,9 +44,9 @@ Rename ```spoof_AVDapi30.zip.ONLY'MAGISK&ANDROID-STUDIO``` to ```spoof_AVDapi30.
 
 Unzip ```haystack-11-attempt.zip```.
 
-### 5) - Copy
+### 5) - Move files
 
-Copy ```dexpatcher-1.8.0-beta1.jar``` inside the new ```haystack-11-attempt``` folder.
+Move ```dexpatcher-1.8.0-beta1.jar``` inside the new ```haystack-11-attempt``` folder.
 
 ### 6) - ADB
 
